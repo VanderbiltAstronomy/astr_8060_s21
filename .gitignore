@@ -1,0 +1,12 @@
+# Mac OS
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+
+# vi swp
+*.swp
+
+# python
+__pycache__/
+*.py[cod]
